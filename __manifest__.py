@@ -1,13 +1,12 @@
-# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*- 
 {
     'name': "l10n-honduras",
 
     'summary': """
         Accounting Localization for 2016 Honduran new tax policies
-            - Adding support for CAI, RTN & range of invoces
+            - Invoice
             - Getting RTN and contributor name from http://enlacertn.dei.gob.hn/consultartn/
             - Adding official list of banks in Honduras
-            - New 15 percentage of ISV
         """,
 
     'description': """
@@ -29,11 +28,6 @@
     # always loaded
     'data': [
         # 'security/ir.model.access.csv',
-        'views/views.xml',
-        'views/templates.xml',
-        'data/l10n_hn_chart_data.xml',
-        'data/account_chart_template_data.xml',
-        'data/account_chart_template_data.yml',
     ],
     # only loaded in demonstration mode
     'demo': [
