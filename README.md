@@ -4,8 +4,10 @@ Localization for ODO10 - Honduras
 ## Documentos Fiscales:
 ### Comprobantes de venta
 * Factura, boleta de venta, ticket, recibo de alquiler y recibo por honorarios.
+
 ### Documentos complementarios
 * Nota de crédito, Nota de débito, Guía de remisión y comprobante de retención
+
 ### Otros comprobantes de Venta
 * Recibo de servicio publico
 * Documentos de bancos y seguros
